@@ -1,0 +1,1 @@
+Php is a genaral-purpose-scripting-Language use to create interactive and dynamic website
